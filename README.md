@@ -8,8 +8,8 @@
 2. **Species Distribution**: A bar chart that shows the number of instances for each species in the Iris dataset.
 
 The dataset used in this project is the Iris dataset, which includes the following features:
-Sepal Length (cm)
-Sepal Width (cm)
-Petal Length (cm)
-Petal Width (cm)
-Species
+- Sepal Length (cm)
+- Sepal Width (cm)
+- Petal Length (cm)
+- Petal Width (cm)
+- Species
